@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Sharukhi</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in linux on Sharukhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Oct 2022 15:33:19 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Audio Editors for Linux</title>
+      <link>http://localhost:1313/linux/2022/best-audio-editors-for-linux/</link>
+      <pubDate>Fri, 14 Oct 2022 15:33:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/linux/2022/best-audio-editors-for-linux/</guid>
+      <description>Whether you are a professional audio editor Or you are just a hobbyist. In any case, there is something that you must have on your computer. Well, no surprise, it&amp;rsquo;s an Audio Editor and the market is packed with some amaizing audio editors.
+In this article, we will talk about a couple of Audio Editors for linux.
+Top linux Audio Editors1. AudacityAudacity is one of the most basic yet a capable and most popular audio editor available for Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
