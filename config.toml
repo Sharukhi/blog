@@ -1,0 +1,80 @@
+baseURL = "http://localhost:1313/"
+title = "Sharukhi"
+
+theme = "puppet"
+
+
+copyright = ""
+paginate = 3
+languageCode = "en"
+defaultContentLanguage = "en"
+
+hasCJKLanguage = true
+enableInlineShortcodes = true
+enableEmoji = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
+
+# prevent build failures when using Hugo's template _internal/opengraph.html 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+[markup.highlight]
+noClasses = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = false
+style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = -100
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 50
+
+
+
+[params]
+author = "Sharukhi"
+description = "Personal blog"
+keywords = "blog,student,personal"
+img_home = "/img/home.jpg"
+img_404 = "/img/404.jpg"
+
+useFaviconGenerator = true
+
+custom_js = []
+custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+
+[params.sidebar]
+enable = false
+avatar = "/img/avatar-ro.jpg"
+bio = "a personal website"
+#links
+[params.social]
+rss_enable = false
+twitter = "Ataullah2007"
+github = "sharukhi"
+linkedin = "sharukhi"
+
+
