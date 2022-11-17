@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharukhi</title>
+    <link>https://sharukhi.me/blog/</link>
+    <description>Recent content on Sharukhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sharukhi.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best-Audio-Editors-For-Linux</title>
+      <link>https://sharukhi.me/blog/post/best-audio-editors-for-linux/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharukhi.me/blog/post/best-audio-editors-for-linux/</guid>
+      <description>Whether you are a professional audio editor Or you are just a hobbyist. In any case, there is something that you must have on your computer. Well, no surprise, it&amp;rsquo;s an Audio Editor and the market is packed with some amaizing audio editors.
+In this article, we will talk about a couple of Audio Editors for linux.
+Top linux Audio Editors 1. Audacity Audacity is one of the most basic yet a capable and most popular audio editor available for Linux.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sharukhi.me/blog/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharukhi.me/blog/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sharukhi.me/blog/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharukhi.me/blog/about/</guid>
+      <description>Sharukhi is a student and also very passionate about new technology. When he’s not writing an article, you can find him sleeping, listening to music, or playing video games.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sharukhi.me/blog/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sharukhi.me/blog/contact/</guid>
+      <description> github Website Instagram Twitter Email </description>
+    </item>
+    
+  </channel>
+</rss>
