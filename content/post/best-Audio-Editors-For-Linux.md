@@ -15,7 +15,7 @@ series = ["Linux"]
 aliases = ["linux"]
 
 +++
-![image](blog/posts/linux/cover.png)
+![image](http://sharukhi.github.io/blog/cover.png)
 Whether you are a professional audio editor Or you are just a hobbyist. In any case, there is something that you must have on your computer. Well, no surprise, it’s an Audio Editor and the market is packed with some amaizing audio editors.
 
 In this article, we will talk about a couple of Audio Editors for linux.

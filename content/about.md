@@ -3,7 +3,7 @@ title = "About"
 +++
 
 
-### <p align="center"><img width="150px" height="150px" src="/Me.png"></p>
+### <p align="center"><img width="150px" height="150px" src="http://sharukhi.github.io/blog/Me.png"></p>
 
 
 

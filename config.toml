@@ -1,4 +1,4 @@
-baseURL = "https://sharukhi.github.io/blog"
+baseURL = "https://sharukhi.github.io/blog/"
 # title = "Hugo Themes"
 author = "Sharukhi"
 copyright = "Copyright © Sharukhi; all rights reserved."
